@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @learner201333
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me like me
-- 😄 Pronouns: 
-- ⚡ Fun fact:I like to learn
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on GitHub
+- 📫 How to reach me: connect with me on GitHub
+- 😄 Pronouns:
+- ⚡ Fun fact: I like to learn
 
 <!---
 learner201333/learner201333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
